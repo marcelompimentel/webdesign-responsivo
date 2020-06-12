@@ -6,6 +6,10 @@ header {
 	padding: .5em 0;
 }
 
+.logo img {
+	width: 200px;
+}
+
 .barra-nav {
 	margin: .4em 0;
 }
